@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("FORKS AND PULLSS.\n");
+	printf("FORKS AND pulls.\n");
 }
 
 
